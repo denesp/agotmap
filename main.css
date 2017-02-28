@@ -821,7 +821,7 @@ q:before, q:after { content: ""; content: none; }
 }
 /*****************************************/
 .pos-pyke {
-    top: 50%;
+    top: 60%;
     left: 12%;
 }
 .pos-pyke-harbor {
